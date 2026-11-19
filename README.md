@@ -4,9 +4,9 @@
 
 # Hi there, I'm Ozodbek! 👋
 
-### Python Developer — Telegram Bots, Automation & Web Apps
+### Software Engineering Student · Python Developer
 
-Building practical tools for real life: bots, dashboards and desktop automation.
+Building practical tools for real life: Telegram bots, web apps and desktop automation.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozodbek23072004@gmail.com)
@@ -18,12 +18,13 @@ Building practical tools for real life: bots, dashboards and desktop automation.
 
 ### 🧑‍💻 About Me
 
+- 🎓 Studying **Software Engineering** at Samarkand State University
 - 🐍 Writing **Python** every day — bots, automation scripts, backends
-- 🤖 Strong focus on **Telegram Bots** (aiogram / pyTelegramBotAPI) and **Web Apps**
+- 🤖 Strong focus on **Telegram Bots** and **Web Applications**
 - 🐳 I ship projects in **Docker** containers on **Linux** servers
 - 🖥️ Interested in **system automation** — remote control, monitoring, desktop tooling
 - 🎯 Currently improving **backend engineering** and clean architecture skills
-- 📍 Uzbekistan
+- 📍 Samarqand, Uzbekistan
 
 ---
 
@@ -40,7 +41,7 @@ Building practical tools for real life: bots, dashboards and desktop automation.
     </td>
   </tr>
   <tr>
-    <td><b>Backend & Bots</b></td>
+    <td><b>Backend &amp; Bots</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -48,7 +49,7 @@ Building practical tools for real life: bots, dashboards and desktop automation.
     </td>
   </tr>
   <tr>
-    <td><b>DevOps & Tools</b></td>
+    <td><b>DevOps &amp; Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
