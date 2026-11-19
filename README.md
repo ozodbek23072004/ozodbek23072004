@@ -84,15 +84,17 @@ Building practical tools for real life: Telegram bots, web apps and desktop auto
 
 <table>
   <tr>
-    <td width="50%">
-      <h4>🤖 win-remote-bot</h4>
-      Windows kompyuterni Telegram orqali masofadan boshqarish: skrinshot, fayl, protsess va tizim monitoringi.
-      <br/><code>Python</code> <code>Telegram</code> <code>psutil</code>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ozodbek23072004/obyektivka">📋 Obyektivka Generator</a></h4>
+      O'zbekiston standartlariga mos rasmiy obyektivka (ma'lumotnoma)ni bir necha daqiqada
+      to'ldirib, tayyor <b>Word (.docx)</b> fayl qilib yuklab olish imkonini beruvchi veb-ilova.
+      <br/><code>JavaScript</code> <code>Web App</code> <code>docx</code>
     </td>
-    <td width="50%">
-      <h4>📋 kelajak-anketa</h4>
-      Flask + Docker asosidagi anketalar tizimi: Excel eksport, admin panel, serverga deploy.
-      <br/><code>Python</code> <code>Flask</code> <code>Docker</code>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ozodbek23072004/yangi-ozbek-yozuvi">✍️ Yangi O'zbek Yozuvi Konvertori</a></h4>
+      Lotin yozuvining 1995 va 2026-yilgi tahrirlari o'rtasida matnni o'giruvchi,
+      server talab qilmaydigan yengil veb-ilova.
+      <br/><code>JavaScript</code> <code>Web App</code> <code>Konverter</code>
     </td>
   </tr>
 </table>
