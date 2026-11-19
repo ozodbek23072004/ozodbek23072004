@@ -8,8 +8,9 @@
 
 Building practical tools for real life: Telegram bots, web apps and desktop automation.
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozodbek23072004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/ozodbek.codes-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ozodbek.codes/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ozodbek_Tuxtayev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ozodbektuxtayev18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ozodbek23072004)
 
 </div>
@@ -24,6 +25,7 @@ Building practical tools for real life: Telegram bots, web apps and desktop auto
 - 🐳 I ship projects in **Docker** containers on **Linux** servers
 - 🖥️ Interested in **system automation** — remote control, monitoring, desktop tooling
 - 🎯 Currently improving **backend engineering** and clean architecture skills
+- 🌐 My portfolio website: **[ozodbek.codes](https://ozodbek.codes/)**
 - 📍 Samarqand, Uzbekistan
 
 ---
@@ -105,8 +107,9 @@ Building practical tools for real life: Telegram bots, web apps and desktop auto
 
 ### 📫 Contact Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozodbek23072004@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ozodbek_Tuxtayev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ozodbektuxtayev18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-232323?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ozodbek.codes/)
 
 <sub>Open to collaboration on Python / bot projects ⭐</sub>
 
