@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ozodbek23072004.png" width="160" alt="avatar" />
 
-# Hi there, I'm Ozodbek! 👋
+# TO'XTAYEV OZODBEK! 👋
 
 ### Software Engineering Student · Python Developer
 
