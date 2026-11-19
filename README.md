@@ -25,7 +25,7 @@ Building practical tools for real life: Telegram bots, web apps and desktop auto
 - 🐳 I ship projects in **Docker** containers on **Linux** servers
 - 🖥️ Interested in **system automation** — remote control, monitoring, desktop tooling
 - 🎯 Currently improving **backend engineering** and clean architecture skills
-- 🌐 My portfolio website: **[ozodbek.codes](https://ozodbek.codes/)**
+- 🌐 My portfolio website: **[ozodbek.codes](https://ozodbek.codes/)** and **[ozodbek.dev](https://ozodbek.dev/)**
 - 📍 Samarqand, Uzbekistan
 
 ---
